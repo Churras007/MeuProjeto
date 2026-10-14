@@ -15,3 +15,4 @@ elif Formula_delta == 0:
     print(f"Seu delta é 0, então x1 e x2 são {Delta:}")
 else:
     print("Seu delta deu negativo")
+aaoi teste
